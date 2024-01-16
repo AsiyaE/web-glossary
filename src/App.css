@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  position: relative;
+}
+
+@import url('./components/Glossary/style.css');
+
+/* @import url('./components/TermNode/termStyle.css');
+
+@import url('./components/GlossaryGraph/canvasStyle.css'); */

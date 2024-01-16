@@ -1,0 +1,17 @@
+.glossary-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap:20px;
+    padding: 10px;
+}
+
+.card{
+    max-width: 200px;
+    padding: 20px;
+    background-color: rgb(195, 227, 255);
+}
+
+.card-title{
+    font-weight: 700;
+    margin-bottom: 10px;
+}
